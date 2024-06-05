@@ -1,0 +1,193 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  line-height: 2rem;
+}
+
+h1, h2, h3 {
+  line-height: 3rem;
+}
+
+.text-orange {
+  color: #F37632;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  margin: 0 60px; 
+}
+
+#header, #beneficios, #robos, #rankings, #inscricao {
+  height: 933px;
+}
+
+.bg-azul-escuro {
+  background-color: #161C2D;
+}
+
+header h1 {
+  width: 30rem;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+}
+
+header p {
+  width: 31rem;
+}
+
+.align-navbar {
+  margin-left: 475px;
+}
+
+.semi-bold {
+  font-weight: 600;
+}
+
+.margins {
+  margin-top: 11rem;
+}
+
+#pitch {
+  border-radius: .5rem;
+}
+
+#parceiros {
+  height: 236px;
+  background-color: #F37632;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#beneficios img {
+  width: 4rem;
+}
+
+#beneficios h3 {
+  font-size: 3rem;
+  margin-top: 23px;
+  margin-bottom: 14px;
+  font-weight: bold;
+}
+
+.line-2 {
+  margin-top: 100px;
+}
+
+#robos h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+#robos p {
+  margin-top: 2rem;
+  width: 490px;
+}
+
+#rankings h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  width: 700px;
+}
+
+#rankings .right-position {
+  display: flex;
+  justify-content: end;
+  text-align: end;
+  margin-top: 100px;
+  margin-right: 60px;
+}
+
+#inscricao h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  width: 600px;
+}
+
+#inscricao p {
+  margin-top: 2rem;
+  width: 410px;
+}
+
+.form-container {
+  max-width: 525px;
+  margin: auto;
+  padding: 32px;
+  border: 1px solid #E7E9ED;
+  border-radius: 8px;
+  box-shadow: 0 0 15.3px rgba(0, 0, 0, 0.25);
+  background-color: #FFFFFF;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.button-submit {
+  background-color: #F37632;
+  width: 450px;
+  height: 59px;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none;
+}
+
+.form-control {
+  margin-top: 7px;
+  width: 450px;
+  height: 50px;
+}
+
+#footer .right-position {
+  text-align: right;
+}
+
+#footer li {
+  margin-top: 30px;
+}
+
+#footer a {
+  text-decoration: none;
+}
+
+#footer .mt {
+  margin-top: 85px;
+}
+
+#footer .equal-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.icon-spacing a {
+  margin-right: 30px;
+}
+.icon-spacing a:last-child {
+  margin-right: 0;
+}
+
+#footer .footer-1{
+  margin-top: 85px;
+}
+
+#line-gray {
+  display: block;
+  height: 1px;
+  background-color: #444;
+  margin: 20px 0;
+}
+
