@@ -24,11 +24,10 @@ A landing page was developed for PIMRO (Integrated Ocean Monitoring and Restorat
 
 ## 🔧Tools Used
 
--HTML
--CSS
-
+- HTML
+- CSS
 - Bootstrap
-  -PHP
+- PHP
 - SQL
 - Google Fonts
 - Vercel
@@ -37,4 +36,4 @@ A landing page was developed for PIMRO (Integrated Ocean Monitoring and Restorat
 
 ## 💻Demo
 
-- [Vercel Project](LINK_DO_PROJETO_VERCEL)
+- [Vercel Project](https://coraltech-fiap.vercel.app/)
